@@ -1,4 +1,5 @@
 # navbar-test-1
+An abomination of website I made using Vuejs, tailwind and hours of tutorials. 
 
 ## Project setup
 ```
